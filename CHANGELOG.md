@@ -1,0 +1,2 @@
+- [Version 0.2.0]-02/12/24 - Changed code to input API Keys from user instead of Hardcoding.
+- [Version 0.2.1]-02/12/24 - Reworked Code to take API KEY from user and pass it to Functions. Some bug fixes.
